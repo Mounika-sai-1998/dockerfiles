@@ -1,0 +1,2 @@
+FROM : FROM should the first instruction ton represent base os  FROM <image-name>:tag
+RUN : we will use RUN instruction to install packages and configure them. RUN instruction can be execute at the time of image creation 
